@@ -1,4 +1,5 @@
-﻿/*
+require('events').EventEmitter.defaultMaxListeners = 25;
+/*
  * This project was programmed by the Next Generation team.
  * If you encounter any problems, open an Issue or log into the Discord server:
  * https://discord.gg/BhJStSa89s
